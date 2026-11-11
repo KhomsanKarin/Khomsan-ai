@@ -34,12 +34,12 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khomsan-ai&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khomsan-ai&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhomsanKarin&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhomsanKarin&layout=compact&theme=tokyonight&hide_border=true" height="165" />
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khomsan-ai&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhomsanKarin&theme=react-dark&hide_border=true" width="100%" />
 </div>
 
 ---
