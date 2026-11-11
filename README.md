@@ -40,7 +40,7 @@
  
 <br/><br/>
  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thammarat-ai&theme=react-dark&hide_border=true%22 width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khomsan-ai&theme=react-dark&hide_border=true%22 width="100%" />
  
 </div>
 
