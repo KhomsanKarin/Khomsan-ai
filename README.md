@@ -1,9 +1,9 @@
 # Khomsan-ai
-# Hi there, I'm <span type="placeholder" placeholder-type="person"></span> 👋
+# Hi there, I'm Khomsan 👋
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at University of Phayao**<span type="placeholder" placeholder-type="place"></span>**
-- 💡 Interested in **Software Engineering, Web Development,**
+- 🎓 Computer Science Student at University of Phayao
+- 💡 Interested in **Software Engineering, Web Development**
 - 🎯 Current Goal: Learning Full-Stack Development and Cloud-Native Applications
 - 💬 Ask me about **JavaScript, Python, and Web Frameworks**
 
@@ -34,8 +34,8 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khomsan-ai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khomsan-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
 ---
