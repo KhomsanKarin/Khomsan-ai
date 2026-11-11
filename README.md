@@ -4,8 +4,8 @@
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at University of Phayao
 - 💡 Interested in **Software Engineering, Web Development**
-- 🎯 Current Goal: Learning Full-Stack Development and Cloud-Native Applications
-- 💬 Ask me about **JavaScript, Python, and Web Frameworks**
+- 🎯 Current Goal: Learning Full-Stack Development
+- 💬 Ask me about **JavaScript, Python**
 
 ---
 
@@ -34,10 +34,14 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khomsan-ai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khomsan-ai&layout=compact&theme=tokyonight&hide_border=true)
-
+ 
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Khomsan-ai&show_icons=true&theme=tokyonight&hide_border=true%22 height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Khomsan-ai&layout=compact&theme=tokyonight&hide_border=true%22 height="165" />
+ 
+<br/><br/>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thammarat-ai&theme=react-dark&hide_border=true%22 width="100%" />
+ 
 </div>
 
 ---
