@@ -1,10 +1,13 @@
 # Khomsan-ai
 # Hi there, I'm Khomsan 👋
+<div align="center">
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=550&lines=Computer+Science+%26+Geoinformatics+Lecturer;AI+%2F+GeoAI+%2F+Remote+Sensing+Researcher;Fullstack+Developer+%26+LLM+Architect)
+<br/></div>
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at University of Phayao
 - 💡 Interested in **Software Engineering, Web Development**
-- 🎯 Current Goal: Learning Full-Stack Development
+- 🎯 Current Goal:**Studying software development and numerical programming**
 - 💬 Ask me about **JavaScript, Python**
 
 ---
@@ -34,7 +37,7 @@
 <br/><br/>
  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhomsanKarin&theme=react-dark&hide_border=true" width="100%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhomsanKarin&theme=react-dark&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhomsanKarin&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
  
 </div>
 
